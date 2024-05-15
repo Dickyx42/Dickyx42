@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dickyx42
 - 👀 I’m interested in Programming, Engineering, Social Politics and Scouting.
-- 🌱 I’m currently learning C programming and working on a master 
+- 🌱 I’m currently learning C programming and working on a master Engineering
 - 💞️ I’m looking to collaborate on Basic Projects that allow me to develop a better level of programming
 - 📫 How to reach me, contacte me through GITHUB, and if it intrests me, I will answer
 - 😄 Pronouns: He/Him
